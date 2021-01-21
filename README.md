@@ -21,10 +21,7 @@ https://blooming-anchorage-96351.herokuapp.com/
 
 ## Refactoring Process
 
-First, I set up an Apollo Server to use GraphQL queries and mutations to fetch and modify data, replacing the existing RESTful API.
-<br>
-Then, I modified the existing authentication middleware so that it works in the context of a GraphQL API.
-<br>
-I created an Apollo Provider so that requests can communicate with an Apollo Server.
-<br>
-Then I deployed the application to Heroku.
+* First, I set up an Apollo Server to use GraphQL queries and mutations to fetch and modify data, replacing the existing RESTful API.
++ Then, I modified the existing authentication middleware so that it works in the context of a GraphQL API.
+- I created an Apollo Provider so that requests can communicate with an Apollo Server.
+* Then I deployed the application to Heroku.
