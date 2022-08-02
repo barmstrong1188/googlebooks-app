@@ -4,7 +4,7 @@
 * [Description](#Description)
 + [Link to deployed app](#link-to-deployed-app)
 - [Screenshots](#screenshots)
-* [Refactoring Process](#refactoring-process)
+
 
 ## Description
 
@@ -18,10 +18,3 @@ Create an account, login and search for a book in the search bar. You can save y
 ## Screenshots
 ![Screenshot 2020-10-18 230729](https://user-images.githubusercontent.com/65680645/96397475-a15ea380-1197-11eb-97e5-519ff7066003.png)
 ![Screenshot 2020-10-18 231036](https://user-images.githubusercontent.com/65680645/96397478-a3c0fd80-1197-11eb-9268-2105edb8b186.png)
-
-## Refactoring Process
-
-* First, I set up an Apollo Server to use GraphQL queries and mutations to fetch and modify data, replacing the existing RESTful API.
-+ Then, I modified the existing authentication middleware so that it works in the context of a GraphQL API.
-- I created an Apollo Provider so that requests can communicate with an Apollo Server.
-* Then I deployed the application to Heroku.
