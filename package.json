@@ -23,7 +23,7 @@
   "license": "ISC",
   "dependencies": {
     "apollo-server-express": "^2.18.2",
-    "graphql": "^16.8.1",
+    "graphql": "15.8.0",
     "heroku": "^8.4.3",
     "if-env": "^1.0.4"
   },
