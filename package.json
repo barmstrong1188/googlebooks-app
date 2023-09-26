@@ -24,9 +24,9 @@
   "dependencies": {
     "apollo-server-express": "^2.18.2",
     "graphql": "^15.8.0",
-    "heroku": "^8.4.3",
+    "heroku": "^0.2.0",
     "if-env": "^1.0.4",
-    "node": "^14.17.5"
+    "node": "16.17.0"
   },
   "devDependencies": {
     "concurrently": "^5.2.0"
