@@ -13,7 +13,7 @@ This is a fully functioning Google Books API search engine built with a RESTful 
 Create an account, login and search for a book in the search bar. You can save your favorite books to your profile.
 
 ## Link to deployed app
-[Get Searching! - Book Search Engine](https://blooming-anchorage-96351.herokuapp.com/)
+[Get Searching! - Book Search Engine](https://books-app-94e54.web.app)
 
 ## Screenshots
 ![Screenshot 2020-10-18 230729](https://user-images.githubusercontent.com/65680645/96397475-a15ea380-1197-11eb-97e5-519ff7066003.png)
